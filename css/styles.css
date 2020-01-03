@@ -1,0 +1,51 @@
+/* COLORES
+
+#373a3C
+#dddddd
+#000 o var(--black)
+#fff o var(--white);
+#dc3545 o var(--danger);
+
+*/
+
+body h2,p{
+  font-family: 'Cabin', sans-serif;
+
+}
+
+h2{
+  text-align: center;
+}
+
+nav{
+  background-color: #373a3c;
+}
+
+nav a{
+  color: #ffffff;
+}
+
+.navbar-brand{
+  font-family: 'Lobster', cursive;
+
+}
+
+#receta{
+text-align: justify;
+}
+
+#newsletter{
+  text-align: center;
+  background-color: #dc3545;
+  color: #ffffff;
+  height: 350px;
+}
+
+footer{
+  background-color: #373a3c;
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  height: 70px;
+  padding: 20px;
+}
